@@ -1,0 +1,29 @@
+.sty{
+    margin: 20% 40% 2% 40%;
+    /* background-color: aqua; */
+}
+
+.btn1{
+    margin:5% 40% 2% 40%;
+}
+
+.tb{
+
+    margin: 4px;
+    min-height: 100px;
+    background-color: honeydew;
+    text-align: center;
+    font-size:large;
+    /* width: 100%; */
+    /* border: 1px solid black; */
+}
+
+
+.tb2{
+
+/* border:2px solid black; */
+}
+
+.sld{
+    width: fit-content;
+}
